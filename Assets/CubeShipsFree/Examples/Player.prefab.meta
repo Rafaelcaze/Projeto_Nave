@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf1f91c441868ff4cb428887f1fefb5e
+timeCreated: 1466378265
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Examples/Player.prefab
+  uploadId: 124876

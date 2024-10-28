@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5534fe87bdddbbb44ab4dd43c16c1a1e
+timeCreated: 1466380212
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Effects/explosion_ship.prefab
+  uploadId: 124876

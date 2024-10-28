@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58c02013b2d3a624aa1afef4591cd614
+timeCreated: 1466809736
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Effects/StarField.prefab
+  uploadId: 124876

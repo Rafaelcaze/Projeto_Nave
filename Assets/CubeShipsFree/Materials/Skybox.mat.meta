@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 389ff3af632f40c44b0f8baaa3a61b98
+timeCreated: 1466481404
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Materials/Skybox.mat
+  uploadId: 124876

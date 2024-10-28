@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 30d1e1d0b006b024095b357e465c67ee
+timeCreated: 1466919439
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Scripts/ScaleDown.cs
+  uploadId: 124876

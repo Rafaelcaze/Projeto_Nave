@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 020230996ff4aa74c93abb54d5985db4
+timeCreated: 1466399890
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Examples/BoltEnemy.prefab
+  uploadId: 124876

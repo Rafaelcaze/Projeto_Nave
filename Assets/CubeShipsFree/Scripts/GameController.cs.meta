@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 09fcc87a54bec7e42abe6030be35cf59
+timeCreated: 1466240076
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Scripts/GameController.cs
+  uploadId: 124876

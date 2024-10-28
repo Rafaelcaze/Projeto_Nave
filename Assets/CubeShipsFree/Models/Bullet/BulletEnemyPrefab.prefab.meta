@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab0a149d614d3e84b8cef10817dd6162
+timeCreated: 1466397954
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Models/Bullet/BulletEnemyPrefab.prefab
+  uploadId: 124876

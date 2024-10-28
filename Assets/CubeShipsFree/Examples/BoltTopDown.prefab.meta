@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2e2391c707e2c64ab8f0d6c4ba21450
+timeCreated: 1467013090
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Examples/BoltTopDown.prefab
+  uploadId: 124876

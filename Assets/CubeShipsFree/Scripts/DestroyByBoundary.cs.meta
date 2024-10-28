@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9b737237a2effc34a96e10d43a279cb0
+timeCreated: 1466238720
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65910
+  packageName: 3D Voxel Cube Spacehips Sampler
+  packageVersion: 1.0
+  assetPath: Assets/CubeShipsFree/Scripts/DestroyByBoundary.cs
+  uploadId: 124876
